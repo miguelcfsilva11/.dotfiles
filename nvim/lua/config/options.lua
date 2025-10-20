@@ -28,7 +28,7 @@ vim.opt.updatetime = 250
 vim.opt.timeoutlen = 300
 
 vim.opt.list = true
-vim.opt.listchars = { space = '·', tab = '⭾ ', eol = '⮐' }
+vim.opt.listchars = { tab = '⭾ ', eol = '⮐' }
 
 vim.opt.showmode = false
 
