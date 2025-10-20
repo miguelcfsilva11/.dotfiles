@@ -11,7 +11,6 @@ return {
 	require("plugins.gitsigns"),
 	require("plugins.guess-indent"),
 	require("plugins.dadbod"),
-	require("plugins.mini-files"),
 	require("plugins.mini-cursorword"),
 	require("plugins.obsidian"),
 	require("plugins.showkeys"),
@@ -30,6 +29,6 @@ return {
 	-- require("plugins.nvim-metals")
 	-- require("plugins.modicator"),
 	-- require("plugins.lightline"),
-
+	-- require("plugins.mini-files"),
 	require("custom_plugins.term-window"),
 }
