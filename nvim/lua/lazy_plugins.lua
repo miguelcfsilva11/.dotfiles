@@ -24,7 +24,7 @@ return {
 	require("plugins.luapad"),
 	-- require("plugins.telescope"),
 	-- require("plugins.cmp"),
-	-- require("plugins.copilot"),
+	require("plugins.copilot"),
 	-- require("plugins.markview"),
 	-- require("plugins.nvim-metals")
 	-- require("plugins.modicator"),
